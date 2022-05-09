@@ -10,9 +10,9 @@
 <channel>
 	<title>I.C.H</title>
 	<atom:link href="http://localhost/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://hieutrungit.github.io/duAn_I.C.H-wordpress</link>
+	<link>https://hieutrungit.github.io/duAn_I.C.H-wordpress</link>
 	<description>Trading production CO,LTD</description>
-	<lastBuildDate>Fri, 29 Apr 2022 10:20:01 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 09 May 2022 19:29:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
